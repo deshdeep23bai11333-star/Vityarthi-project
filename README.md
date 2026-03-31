@@ -1,4 +1,4 @@
-# webcam based Hand-Tracking-Using-Opencv
+# Webcam based Hand-Tracking-Using-Opencv
 
 ## About The Project
 
